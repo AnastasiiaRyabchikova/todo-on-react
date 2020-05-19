@@ -1,0 +1,9 @@
+.app-header {
+    display: flex;
+    align-items: flex-end;
+}
+
+.app-header h1{
+    flex-grow: 1;
+    margin-bottom: 0;
+}
